@@ -1,0 +1,202 @@
+{
+ "/images/logo.png": {
+  "w": 512,
+  "h": 512,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   512
+  ],
+  "base": "/images/_opt/logo.3aa3e5013d",
+  "stamp": "3aa3e5013d"
+ },
+ "/images/og-photo.jpg": {
+  "w": 480,
+  "h": 630,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   480
+  ],
+  "base": "/images/_opt/og-photo.8a1360ee5c",
+  "stamp": "8a1360ee5c"
+ },
+ "/images/photo-1.jpg": {
+  "w": 1080,
+  "h": 1440,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080
+  ],
+  "base": "/images/_opt/photo-1.2c2987c7a9",
+  "stamp": "2c2987c7a9"
+ },
+ "/images/photo-10.jpg": {
+  "w": 1440,
+  "h": 1800,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080,
+   1200,
+   1440
+  ],
+  "base": "/images/_opt/photo-10.c759888e20",
+  "stamp": "c759888e20"
+ },
+ "/images/photo-2.jpg": {
+  "w": 900,
+  "h": 1200,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   900
+  ],
+  "base": "/images/_opt/photo-2.e4b73230f2",
+  "stamp": "e4b73230f2"
+ },
+ "/images/photo-3.jpg": {
+  "w": 1080,
+  "h": 1440,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080
+  ],
+  "base": "/images/_opt/photo-3.cd4c6ce639",
+  "stamp": "cd4c6ce639"
+ },
+ "/images/photo-4.jpg": {
+  "w": 1440,
+  "h": 1919,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080,
+   1200,
+   1440
+  ],
+  "base": "/images/_opt/photo-4.e8d6ee6bb3",
+  "stamp": "e8d6ee6bb3"
+ },
+ "/images/photo-5.jpg": {
+  "w": 1440,
+  "h": 1676,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080,
+   1200,
+   1440
+  ],
+  "base": "/images/_opt/photo-5.6d16f07353",
+  "stamp": "6d16f07353"
+ },
+ "/images/photo-6.jpg": {
+  "w": 1440,
+  "h": 1920,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080,
+   1200,
+   1440
+  ],
+  "base": "/images/_opt/photo-6.65cd7956cd",
+  "stamp": "65cd7956cd"
+ },
+ "/images/photo-7.jpg": {
+  "w": 1440,
+  "h": 1696,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080,
+   1200,
+   1440
+  ],
+  "base": "/images/_opt/photo-7.beb08002cc",
+  "stamp": "beb08002cc"
+ },
+ "/images/photo-8.jpg": {
+  "w": 1440,
+  "h": 1800,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080,
+   1200,
+   1440
+  ],
+  "base": "/images/_opt/photo-8.c1e3e3a889",
+  "stamp": "c1e3e3a889"
+ },
+ "/images/photo-9.jpg": {
+  "w": 1440,
+  "h": 1920,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080,
+   1200,
+   1440
+  ],
+  "base": "/images/_opt/photo-9.299092877f",
+  "stamp": "299092877f"
+ }
+}
